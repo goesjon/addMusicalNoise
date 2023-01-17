@@ -3,11 +3,6 @@ function [sDis,fs] = addMusicalNoise(s,fs,SNR,k)
 %
 % This function adds musical noise distortions to a clean speech signal
 %
-% For further information, see:
-% Goesswein, Jonathan Albert; Kollmeier, Birger & Rennies, Jan
-% Method to control the amount of musical noise for speech quality assessments
-% JASA express letters
-%
 % This function requires the speech processing toolbox "voicebox"
 % (https://github.com/ImperialCollegeLondon/sap-voicebox)
 % and the large time frequency analysis toolbox "LTFAT"
