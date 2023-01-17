@@ -5,11 +5,6 @@
 % First, a sound file is read. To the signal, musical noise distortions
 % are added. The distorted signal is then written in a sound file.
 %
-% For further information, see:
-% Goesswein, Jonathan Albert; Kollmeier, Birger & Rennies, Jan
-% Method to control the amount of "musical" noise for speech quality assessments
-% JASA express letters
-%
 % The example speech material is taken from:
 % Nuesse, T.; Wiercinski, B.; Brand, T. & Holube, I.
 % Measuring Speech Recognition With a Matrix Test Using Synthetic Speech.
