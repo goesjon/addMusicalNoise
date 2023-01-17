@@ -5,7 +5,6 @@ function sHat = spectralSubtractionAlgo(x,fs,IS,a,k,alpha)
 % 
 % Calculation according to [1] and [2]
 % This is a modified version of [3]
-% For furth information, see [4]
 %
 % _inputs_
 % x - noisy speech signal
@@ -35,9 +34,6 @@ function sHat = spectralSubtractionAlgo(x,fs,IS,a,k,alpha)
 % Multi-band Spectral Subtraction
 % https://www.mathworks.com/matlabcentral/fileexchange/7674-multi-band-spectral-subtraction
 % MATLAB Central File Exchange. Retrieved November 15, 2022.
-%
-% [4] Goesswein, Jonathan Albert; Birger & Rennies, Jan
-% Method to control the amount of musical noise for speech quality assessments
 %
 % Copyright (C) 2022 Fraunhofer IDMT, Jonathan Albert Goesswein
 % 
