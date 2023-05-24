@@ -5,6 +5,12 @@
 % First, a sound file is read. To the signal, musical noise distortions
 % are added. The distorted signal is then written in a sound file.
 %
+% For more information see:
+% Goesswein JA. Kollmeier B. & Rennies J. 2023.
+% Method to control the amount of musical noise for speech quality assessments.
+% Acta Acoustica, 7, 18.
+% DOI: 10.1051/aacus/2023016
+%
 % The example speech material is taken from:
 % Nuesse, T.; Wiercinski, B.; Brand, T. & Holube, I.
 % Measuring Speech Recognition With a Matrix Test Using Synthetic Speech.
